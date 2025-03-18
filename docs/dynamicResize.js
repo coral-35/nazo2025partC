@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function(event){
 
 function resize() {
     var width = 700;
-    var height = 840;
+    var height = 860;
     canvasAspectRatio = width / height;
 
     var windowWidth = window.innerWidth;
